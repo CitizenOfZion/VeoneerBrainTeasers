@@ -1,0 +1,27 @@
+
+Problem Statement: 
+Given are Coins of denominations Re.1, Re.2 and Re.5. Input should be the Amount for which change is needed and output should 
+be all the combinations of the coins that can be given as change to satisfy the amount.
+ 
+ Input:
+1.	10
+2.	4
+ 
+Expected Result for Input 1:  
+ 
+1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,2
+1,1,1,1,1,1,2,2
+1,1,1,1,1,5
+1,1,1,1,2,2,2
+1,1,1,5,2
+1,1,2,2,2,2
+1,5,2,2
+2,2,2,2,2
+5,5
+ 
+Expected Result for Input 2:  
+ 
+1,1,1,1
+2,2
+1,1,2
