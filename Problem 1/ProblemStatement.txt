@@ -1,0 +1,16 @@
+Problem Statement: Generate all the combinations for characters input by the user without any duplicates (Ex: AB and BA for input ABC are duplicates).
+
+Conditions for Input:
+Condition 1: User enters characters with no delimiters or spaces (Ex: ABCDE)
+Condition 2: Maximum of 22 characters and Minimum of 2 characters
+Condition 3: There are no characters repeated in the input.
+
+Example:
+Input: ABCD
+
+ 	Combinations	No . Of Combos
+4 letter Combo	ABCD	 	 	 	 	 	          1
+3 letter Combo	ABC	ABD	ACD	BCD	 	 	      4
+2 letter Combo	AB	BC	CD	AD	AC	BD	  6
+1 letter Combo	A	B	C	D	 	 	              4
+Total	                                   15
