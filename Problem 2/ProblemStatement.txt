@@ -1,0 +1,6 @@
+Problem Statement:  
+Given a string inputStr and a set of words setOfWords, find the longest word in setofWords that is a subsequence of inputStr.
+inputStr = "abppplee" and setOfWords = {"able", "ale", "apple", "bale", "kangaroo"}. 
+
+Expected Result:  “apple”
+
